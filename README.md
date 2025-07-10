@@ -11,8 +11,12 @@ This project is a beginner-friendly Data Analytics dashboard built with **SQLite
 - Lightweight and easy to run locally using SQLite
 
 ---
-![Project Images] <img width="1366" height="768" alt="Screenshot (406)" src="https://github.com/user-attachments/assets/b4e34fa1-eea9-4ea7-a03f-a49e32173759" />
-()
+
+## 📷 Project Images
+<img width="1366" height="768" alt="Screenshot (406)" src="https://github.com/user-attachments/assets/b4e34fa1-eea9-4ea7-a03f-a49e32173759" />
+<img width="1366" height="768" alt="Screenshot (407)" src="https://github.com/user-attachments/assets/e583da50-c9e9-41e2-aeaf-1fb10388b055" />
+<img width="1366" height="768" alt="Screenshot (408)" src="https://github.com/user-attachments/assets/dcb95d51-cbc1-4449-b985-1a85ea8549e1" />
+<img width="1366" height="768" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/af188aa5-87fc-4109-8b78-08f1c8b38183" />
 
 ---
 
